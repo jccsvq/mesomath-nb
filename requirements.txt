@@ -1,1 +1,1 @@
-mesomath >= 1.2.3
+mesomath >= 1.2.4
