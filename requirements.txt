@@ -1,1 +1,1 @@
-mesomath >= 1.3.0
+mesomath >= 1.4.0
