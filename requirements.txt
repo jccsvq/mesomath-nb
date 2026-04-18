@@ -1,2 +1,2 @@
-mesomath >= 2.0.0rc1
+git+https://github.com/jccsvq/mesomath.git@develop
 
